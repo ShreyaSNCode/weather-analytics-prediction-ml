@@ -17,9 +17,20 @@ This project uses weather datasets containing temperature, rainfall, and climate
 ### 📁 Data Sources
 - **India Daily Weather Data (2000–2024)**  
   [View Dataset](https://www.kaggle.com/datasets/developerghost/climate-in-india-daily-weather-data-2000-2024)
+   Historical daily weather observations across India.
 
 - **Indian Climate Dataset (2024–2025)**  
   [View Dataset](https://www.kaggle.com/datasets/ankushrawade/indian-climate-dataset-20242025)
+   Recent climate trends including temperature and rainfall patterns.
+
+### 📑 Features in Dataset
+- Temperature (min, max, avg)
+- Rainfall
+- Humidity
+- Wind Speed
+- Air Quality Index (AQI)
+- Pressure
+- Cloud Cover
 
 ## 💼 Business Use Case
 
