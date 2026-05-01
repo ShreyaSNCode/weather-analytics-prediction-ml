@@ -30,36 +30,34 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 
 ### 🌡 Temperature Forecast
 <p align="center">
-  <img src="temperature_forecast.png" width="700"/>
+  <img src="Temperature Forecast.png" width="700"/>
 </p>
 
 ### 🌧 Rainfall Anomaly Detection
 <p align="center">
-  <img src="rainfall_anomaly.png" width="700"/>
+  <img src="Rainfall Anomaly Detection.png" width="700"/>
 </p>
 
 ### 🏙 Climate Segmentation of Cities
 <p align="center">
-  <img src="climate_segmentation.png" width="700"/>
+  <img src="Climate Segmentation of Cities.png" width="700"/>
 </p>
 
 ### ⚖️ Extreme vs Normal Weather Distribution
 <p align="center">
-  <img src="weather_distribution.png" width="500"/>
+  <img src="Extreme vs Normal Weather Distribution.png" width="500"/>
 </p>
 
 ### 🔗 Correlation Matrix
 <p align="center">
-  <img src="correlation_matrix.png" width="700"/>
+  <img src="Correlation Matrix.png" width="700"/>
 </p>
 
 ### 📈 Future Trend of Extreme Weather
 <p align="center">
-  <img src="extreme_weather_trend.png" width="700"/>
+  <img src="Future Trend of Extreme Weather.png" width="700"/>
 </p>
 
-
-## 📌 Key Insights
 ## 📌 Key Insights
 
 - Temperature shows fluctuating trends with stable forecast predictions  
