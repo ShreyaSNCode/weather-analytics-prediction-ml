@@ -26,20 +26,47 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 - Extreme weather identification  
 - Future prediction  
 
-## 📷 Visualizations
-### Temperature Trend
-![Temperature](temperature_trend.png)
+## 📷 Visualizations & Insights
 
-### Rainfall Analysis
-![Rainfall](rainfall_analysis.png)
+### 🌡 Temperature Forecast
+<p align="center">
+  <img src="temperature_forecast.png" width="700"/>
+</p>
 
-### Prediction Output
-![Prediction](prediction_graph.png)
+### 🌧 Rainfall Anomaly Detection
+<p align="center">
+  <img src="rainfall_anomaly.png" width="700"/>
+</p>
+
+### 🏙 Climate Segmentation of Cities
+<p align="center">
+  <img src="climate_segmentation.png" width="700"/>
+</p>
+
+### ⚖️ Extreme vs Normal Weather Distribution
+<p align="center">
+  <img src="weather_distribution.png" width="500"/>
+</p>
+
+### 🔗 Correlation Matrix
+<p align="center">
+  <img src="correlation_matrix.png" width="700"/>
+</p>
+
+### 📈 Future Trend of Extreme Weather
+<p align="center">
+  <img src="extreme_weather_trend.png" width="700"/>
+</p>
+
 
 ## 📌 Key Insights
-- Increasing trend in extreme weather events  
-- Seasonal rainfall variations observed  
-- Predictive model shows fluctuations  
+## 📌 Key Insights
+
+- Temperature shows fluctuating trends with stable forecast predictions  
+- Rainfall anomalies detected in specific years indicating unusual climate patterns  
+- Strong correlation observed between temperature variables  
+- Climate segmentation shows variation across cities  
+- Extreme weather events show a slightly increasing trend
 
 ## ⚠️ Limitations
 - Limited dataset size  
