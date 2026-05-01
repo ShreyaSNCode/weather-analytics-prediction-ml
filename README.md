@@ -10,6 +10,10 @@ Can we analyze past weather patterns to predict future climate trends and detect
 - Weather dataset (temperature, rainfall, etc.)
 - Source: Add your dataset source
 
+Source: 
+India Daily Weather (2000–2024) – Major Cities : https://www.kaggle.com/datasets/developerghost/climate-in-india-daily-weather-data-2000-2024?utm_source=chatgpt.com
+Indian Climate Dataset (2024–2025)             : https://www.kaggle.com/datasets/ankushnarwade/indian-climate-dataset-20242025?utm_source=chatgpt.com
+
 ## 💼 Business Use Case
 
 This project helps in:
@@ -88,4 +92,10 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 - Time Series Forecasting (ARIMA)
 - Statistical Analysis
 - Correlation Analysis
+
+## 📏 Model Evaluation
+
+- Forecasting approach: ARIMA  
+- Model performance evaluated using trend comparison  
+- Predictions show stable future patterns with minor fluctuations  
 
