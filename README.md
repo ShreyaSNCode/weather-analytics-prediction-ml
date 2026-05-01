@@ -59,42 +59,70 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 ## 📷 Visualizations & Insights
 
 ### 🌡 Temperature Forecast
+
 <p align="center">
   <img src="Temperature Forecast.png" width="700"/>
 </p>
 
+**Insight:** Temperature shows periodic fluctuations with a relatively stable forecast trend in upcoming months.
+
+---
+
 ### 🌧 Rainfall Anomaly Detection
+
 <p align="center">
   <img src="Rainfall Anomaly Detection.png" width="700"/>
 </p>
 
+**Insight:** Certain years exhibit significant deviations from average rainfall, indicating potential climate anomalies.
+
+---
+
 ### 🏙 Climate Segmentation of Cities
+
 <p align="center">
   <img src="Climate Segmentation of Cities.png" width="700"/>
 </p>
 
+**Insight:** Cities cluster differently based on temperature and rainfall, highlighting distinct regional climate patterns.
+
+---
+
 ### ⚖️ Extreme vs Normal Weather Distribution
+
 <p align="center">
   <img src="Extreme vs Normal Weather Distribution.png" width="500"/>
 </p>
 
+**Insight:** Majority of weather conditions remain normal, but a notable portion reflects extreme events.
+
+---
+
 ### 🔗 Correlation Matrix
+
 <p align="center">
   <img src="Correlation Matrix.png" width="700"/>
 </p>
 
+**Insight:** Strong positive correlation exists between temperature variables, while other factors show weaker relationships.
+
+---
+
 ### 📈 Future Trend of Extreme Weather
+
 <p align="center">
   <img src="Future Trend of Extreme Weather.png" width="700"/>
 </p>
 
+**Insight:** Extreme weather events show a slight increasing trend over time, indicating potential climate risk growth.
+
 ## 📌 Key Insights
 
-- Temperature shows fluctuating trends with stable forecast predictions  
-- Rainfall anomalies detected in specific years indicating unusual climate patterns  
-- Strong correlation observed between temperature variables  
-- Climate segmentation shows variation across cities  
-- Extreme weather events show a slightly increasing trend
+- Temperature exhibits periodic fluctuations with stable future predictions  
+- Rainfall anomalies highlight irregular climate patterns in certain years  
+- Strong correlations exist among temperature-related variables  
+- Climate segmentation reveals distinct regional weather characteristics  
+- Extreme weather events show a gradual increasing trend over time
 
 ## ⚠️ Limitations
 - Limited dataset size  
