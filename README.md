@@ -143,7 +143,12 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 
 - Forecasting approach: ARIMA  
 - Model performance evaluated using trend comparison  
-- Predictions show stable future patterns with minor fluctuations  
+- Predictions show stable future patterns with minor fluctuations
+
+## 📄 Project Documentation
+
+- 📊 Project Presentation (PPT)
+- 📝 Detailed Report (Word Document)
 
 ## 🚀 Conclusion
 
