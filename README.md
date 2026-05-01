@@ -1,5 +1,8 @@
 # 🌦 Weather Analytics & Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 📌 Project Overview
 This project analyzes historical weather data to identify trends, detect anomalies, and predict future temperature using machine learning and time-series models.
 
