@@ -64,7 +64,7 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
   <img src="Temperature Forecast.png" width="700"/>
 </p>
 
-**Insight:** Temperature shows periodic fluctuations with a relatively stable forecast trend in upcoming months.
+**Insight:** Temperature shows periodic fluctuations with a relatively stable forecast trend.
 
 ---
 
@@ -145,3 +145,6 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 - Model performance evaluated using trend comparison  
 - Predictions show stable future patterns with minor fluctuations  
 
+## 🚀 Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to understand climate patterns, detect anomalies, and support data-driven decision-making.
