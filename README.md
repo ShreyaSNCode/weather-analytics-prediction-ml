@@ -10,12 +10,15 @@ This project analyzes historical weather data to identify trends, detect anomali
 Can we analyze past weather patterns to predict future climate trends and detect extreme weather conditions?
 
 ## 📊 Dataset
-- Weather dataset (temperature, rainfall, etc.)
-- Source: Add your dataset source
 
-Source: 
-India Daily Weather (2000–2024) – Major Cities : https://www.kaggle.com/datasets/developerghost/climate-in-india-daily-weather-data-2000-2024?utm_source=chatgpt.com
-Indian Climate Dataset (2024–2025)             : https://www.kaggle.com/datasets/ankushnarwade/indian-climate-dataset-20242025?utm_source=chatgpt.com
+This project uses weather datasets containing temperature, rainfall, and climate features.
+
+### 📁 Data Sources
+- **India Daily Weather Data (2000–2024)**  
+  [View Dataset](https://www.kaggle.com/datasets/developerghost/climate-in-india-daily-weather-data-2000-2024)
+
+- **Indian Climate Dataset (2024–2025)**  
+  [View Dataset](https://www.kaggle.com/datasets/ankushrawade/indian-climate-dataset-20242025)
 
 ## 💼 Business Use Case
 
