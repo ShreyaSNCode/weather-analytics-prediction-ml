@@ -10,6 +10,14 @@ Can we analyze past weather patterns to predict future climate trends and detect
 - Weather dataset (temperature, rainfall, etc.)
 - Source: Add your dataset source
 
+## 💼 Business Use Case
+
+This project helps in:
+- Understanding climate change patterns  
+- Predicting future weather conditions  
+- Supporting agriculture and planning decisions  
+- Identifying extreme weather risks  
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
