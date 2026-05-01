@@ -83,4 +83,9 @@ Data Cleaning → EDA → Trend Analysis → Anomaly Detection → Prediction �
 - Advanced models (LSTM)  
 - Dashboard deployment  
 
+## 🤖 Models Used
+
+- Time Series Forecasting (ARIMA)
+- Statistical Analysis
+- Correlation Analysis
 
